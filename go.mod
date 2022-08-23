@@ -1,4 +1,4 @@
-module github.com/miguelmota/go-solidity-sha3
+module github.com/sinsoio/go-solidity-sha3
 
 go 1.16
 
